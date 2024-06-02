@@ -61,7 +61,3 @@ Removes the todo-app executable.`
 ```sh
 make clean or rm -f ./todo-app
 ```
-
-```sh
-make clean or rm -f ./todo-app
-```
