@@ -8,7 +8,7 @@ Todo App built in Go.
 
 To get a local copy up and running follow these simple steps.
 
-````bash
+```bash
 # Clone the repository
 git clone https://github.com/sunil-bagde/todo-app-go.git
 
@@ -22,9 +22,9 @@ cd todo-app-go
 # Install Go dependencies
 go mod download
 
+```
 
 cp .env.example .env
-
 
 Compile Run Test same time
 
@@ -55,4 +55,7 @@ Removes the todo-app executable.`
 ```sh
 make clean
 ```
-````
+
+```
+
+```
