@@ -22,6 +22,10 @@ cd todo-app-go
 # Install Go dependencies
 go mod download
 
+
+cp .env.example .env
+
+
 Compile Run Test same time
 
 ```sh
