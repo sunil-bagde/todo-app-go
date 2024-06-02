@@ -12,6 +12,10 @@ To get a local copy up and running follow these simple steps.
 # Clone the repository
 git clone https://github.com/sunil-bagde/todo-app-go.git
 
+or use SSH
+
+git clone git@github.com:sunil-bagde/todo-app-go.git
+
 # Navigate to the project directory
 cd todo-app-go
 
