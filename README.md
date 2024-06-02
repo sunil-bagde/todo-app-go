@@ -30,7 +30,7 @@ Compile Run Test same time
 
 ```sh
 make all
-````
+```
 
 Compiles your Go code and creates an executable named todo-app.
 
@@ -55,3 +55,4 @@ Removes the todo-app executable.`
 ```sh
 make clean
 ```
+````
